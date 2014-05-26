@@ -1,7 +1,7 @@
 //
 //  BNRDocument.m
 //  TahDoodle
-//  poooooooooooooooooohhhhhhhhhhhhhhhhhhhhhhhhhhh
+//
 //  Created by Tatsuya Okamoto on 2014/05/22.
 //  Copyright (c) 2014年 KORG Inc. All rights reserved.
 //
